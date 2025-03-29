@@ -4,6 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+.users{
+border:2px solid red;
+border-radius: 16px;
+}
 
 .logo {
   height: 6em;
